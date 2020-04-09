@@ -1,0 +1,15 @@
+
+*.exe
+*.dcu
+mobile/database/Treinamento.s3db
+mobile/__history/UntPrincipal.fmx.~1~
+mobile/__history/UntPrincipal.pas.~5~
+mobile/__history/UntPrincipal.pas.~4~
+mobile/__history/UntPrincipal.pas.~3~
+mobile/__history/UntPrincipal.pas.~2~
+mobile/__history/UntPrincipal.pas.~1~
+mobile/__history/UntPrincipal.fmx.~6~
+mobile/__history/UntPrincipal.fmx.~5~
+mobile/__history/UntPrincipal.fmx.~4~
+mobile/__history/UntPrincipal.fmx.~3~
+mobile/__history/UntPrincipal.fmx.~2~
